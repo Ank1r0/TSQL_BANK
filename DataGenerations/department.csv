@@ -1,0 +1,11 @@
+dept_id,dept_name,building_floor,dubget_annual,parent_dept_id
+1,Finance,Floor 4,612548.398502,
+2,Operations,Floor 8,1504448.32167,
+3,Audit,Floor 4,3545147.693403,
+4,Compliance,Floor 3,3157216.306021,
+5,Commercial Banking,Floor 7,1546974.020258,2
+6,Audit,Floor 18,2387839.194327,
+7,Operations,Floor 1,3914633.152084,
+8,Human Resources,Floor 11,1750421.037522,
+9,Customer Service,Floor 11,959946.244339,
+10,IT Department,Floor 12,3216767.141151,8

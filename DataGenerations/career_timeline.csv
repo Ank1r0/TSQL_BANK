@@ -1,0 +1,294 @@
+history_id,emp_id,dept_id,manager_id,salary,effective_date,change_reason
+1,1,10,84,50369,2025-04-09,Initial Hire
+2,1,4,84,78453,2025-09-15,Annual Salary Review
+3,1,10,84,71622,2025-10-04,Annual Salary Review
+4,1,10,84,67601,2025-11-10,Performance Adjustment
+5,1,3,84,63507,2025-12-14,Market Adjustment
+6,2,7,3,38476,2023-09-03,Initial Hire
+7,3,2,,90435,2020-05-13,Initial Hire
+8,3,2,,119655,2020-09-13,Promotion
+9,3,2,,102657,2025-10-17,Department Transfer
+10,4,4,5,48920,2022-08-18,Initial Hire
+11,4,4,5,59272,2022-08-31,Market Adjustment
+12,4,4,5,59272,2022-11-15,Department Transfer
+13,5,4,,85763,2024-09-08,Initial Hire
+14,5,4,,98873,2025-07-23,Performance Adjustment
+15,5,4,,96757,2025-07-31,Department Transfer
+16,5,5,,96757,2025-10-20,Lateral Move
+17,5,2,,96757,2025-12-04,Market Adjustment
+18,6,9,35,62645,2020-08-27,Initial Hire
+19,6,4,35,68878,2020-08-29,Department Transfer
+20,6,7,35,68878,2024-04-23,Market Adjustment
+21,6,9,35,73116,2025-01-11,Performance Adjustment
+22,7,8,77,71207,2025-03-24,Initial Hire
+23,7,8,77,88886,2025-05-05,Annual Salary Review
+24,7,8,77,92450,2025-07-25,Annual Salary Review
+25,7,8,77,94909,2025-11-15,Annual Salary Review
+26,8,7,,153615,2024-01-02,Initial Hire
+27,8,7,,160390,2025-01-06,Market Adjustment
+28,8,7,,174588,2025-05-12,Promotion
+29,9,2,,200551,2019-04-03,Initial Hire
+30,9,2,,215546,2020-06-23,Department Transfer
+31,9,5,,215546,2025-01-15,Market Adjustment
+32,10,5,5,66235,2021-01-09,Initial Hire
+33,10,5,5,73146,2021-02-08,Department Transfer
+34,10,5,5,86217,2023-01-31,Promotion
+35,10,5,5,92682,2024-11-18,Promotion
+36,11,1,,75820,2025-05-14,Initial Hire
+37,11,1,,83042,2025-07-09,Lateral Move
+38,11,9,,83042,2025-07-31,Market Adjustment
+39,11,1,,83042,2025-08-09,Lateral Move
+40,11,1,,83042,2025-09-17,Market Adjustment
+41,12,2,,133458,2025-09-06,Initial Hire
+42,12,2,,140080,2025-09-18,Lateral Move
+43,12,2,,151150,2025-09-22,Annual Salary Review
+44,12,2,,140080,2025-10-11,Department Transfer
+45,13,3,,81479,2025-11-23,Initial Hire
+46,13,6,,106341,2025-12-02,Promotion
+47,14,6,29,73216,2025-06-14,Initial Hire
+48,14,6,29,79208,2025-08-15,Lateral Move
+49,14,8,29,85709,2025-08-28,Promotion
+50,15,9,36,57217,2022-07-04,Initial Hire
+51,15,9,36,82464,2025-06-27,Promotion
+52,16,2,36,35279,2021-04-26,Initial Hire
+53,16,2,36,46740,2024-09-23,Performance Adjustment
+54,17,8,45,54922,2021-05-16,Initial Hire
+55,17,8,45,67878,2022-06-09,Performance Adjustment
+56,17,8,45,63316,2025-04-21,Department Transfer
+57,17,10,45,63316,2025-07-07,Department Transfer
+58,17,8,45,70686,2025-08-09,Promotion
+59,18,2,11,36161,2024-01-01,Initial Hire
+60,18,2,11,65841,2024-12-13,Annual Salary Review
+61,19,3,21,38771,2025-08-21,Initial Hire
+62,20,1,49,67507,2019-10-15,Initial Hire
+63,21,1,,98749,2024-11-27,Initial Hire
+64,21,1,,122743,2025-03-22,Annual Salary Review
+65,22,8,,268332,2022-05-15,Initial Hire
+66,23,1,45,28435,2020-12-03,Initial Hire
+67,23,8,45,54398,2021-02-10,Promotion
+68,23,1,45,48840,2023-11-27,Annual Salary Review
+69,23,1,45,42054,2025-02-17,Lateral Move
+70,24,2,53,57492,2024-08-06,Initial Hire
+71,24,9,53,63202,2024-09-06,Market Adjustment
+72,24,2,53,68712,2024-12-20,Annual Salary Review
+73,24,7,53,75186,2025-05-06,Promotion
+74,24,2,53,63202,2025-05-24,Market Adjustment
+75,25,10,65,33375,2022-06-27,Initial Hire
+76,25,10,65,47009,2024-05-18,Promotion
+77,25,10,65,54807,2025-04-04,Promotion
+78,25,10,65,39579,2025-05-12,Market Adjustment
+79,26,4,77,59273,2025-08-22,Initial Hire
+80,26,4,77,73371,2025-10-17,Performance Adjustment
+81,26,4,77,71919,2025-11-16,Performance Adjustment
+82,27,8,12,56101,2021-03-11,Initial Hire
+83,28,6,12,35646,2022-11-04,Initial Hire
+84,28,7,12,47692,2025-05-13,Lateral Move
+85,29,5,,72168,2020-09-15,Initial Hire
+86,29,5,,84598,2024-08-04,Lateral Move
+87,29,5,,94718,2025-01-11,Promotion
+88,30,10,12,32266,2019-08-24,Initial Hire
+89,30,10,12,43398,2019-10-07,Department Transfer
+90,30,10,12,43398,2022-11-10,Lateral Move
+91,31,2,8,37955,2019-09-26,Initial Hire
+92,32,9,55,46586,2022-11-02,Initial Hire
+93,32,3,55,53168,2024-11-05,Market Adjustment
+94,32,9,55,58086,2025-04-14,Performance Adjustment
+95,32,9,55,56912,2025-10-27,Performance Adjustment
+96,33,9,81,37697,2025-10-18,Initial Hire
+97,34,2,40,39107,2021-06-08,Initial Hire
+98,34,2,40,51036,2022-01-12,Market Adjustment
+99,34,2,40,61797,2025-09-27,Annual Salary Review
+100,35,7,,160094,2020-05-20,Initial Hire
+101,36,7,,118719,2024-12-08,Initial Hire
+102,36,7,,127204,2025-01-11,Department Transfer
+103,36,6,,127204,2025-04-14,Department Transfer
+104,36,7,,131327,2025-06-03,Performance Adjustment
+105,36,7,,145429,2025-07-08,Annual Salary Review
+106,37,4,55,39621,2019-08-03,Initial Hire
+107,37,4,55,57443,2021-11-03,Performance Adjustment
+108,37,4,55,58616,2022-12-20,Performance Adjustment
+109,37,5,55,53811,2024-02-14,Market Adjustment
+110,38,7,65,44520,2025-05-17,Initial Hire
+111,39,10,21,35273,2017-04-14,Initial Hire
+112,39,10,21,53307,2019-12-17,Annual Salary Review
+113,39,10,21,45335,2021-03-28,Department Transfer
+114,40,4,,111822,2020-04-22,Initial Hire
+115,40,1,,117962,2021-09-26,Department Transfer
+116,40,4,,129125,2022-02-10,Promotion
+117,40,4,,117962,2022-05-11,Lateral Move
+118,41,6,48,62727,2022-04-25,Initial Hire
+119,41,10,48,88557,2024-09-13,Annual Salary Review
+120,42,7,96,44323,2024-10-07,Initial Hire
+121,43,1,53,48821,2021-05-13,Initial Hire
+122,43,1,53,57734,2022-01-18,Performance Adjustment
+123,44,4,11,69864,2024-12-28,Initial Hire
+124,44,4,11,82123,2025-01-20,Market Adjustment
+125,44,4,11,84241,2025-05-25,Performance Adjustment
+126,45,2,,254109,2020-11-30,Initial Hire
+127,45,2,,274319,2023-09-13,Promotion
+128,46,10,21,34592,2017-10-09,Initial Hire
+129,46,10,21,49309,2019-08-30,Lateral Move
+130,46,10,21,60784,2024-08-19,Annual Salary Review
+131,47,3,,145499,2019-08-15,Initial Hire
+132,47,3,,159856,2019-11-16,Promotion
+133,47,5,,151396,2020-05-01,Department Transfer
+134,47,3,,164545,2021-07-27,Annual Salary Review
+135,47,3,,151396,2022-09-23,Market Adjustment
+136,48,8,,123783,2023-08-16,Initial Hire
+137,48,9,,138300,2024-03-29,Performance Adjustment
+138,49,9,,170043,2024-03-16,Initial Hire
+139,49,1,,176223,2024-06-27,Lateral Move
+140,49,9,,176223,2025-04-12,Lateral Move
+141,50,8,,136701,2025-08-13,Initial Hire
+142,51,8,47,36552,2023-11-15,Initial Hire
+143,51,8,47,52207,2024-02-17,Performance Adjustment
+144,51,8,47,48585,2024-07-17,Lateral Move
+145,51,8,47,48585,2025-12-18,Lateral Move
+146,51,8,47,63712,2025-12-26,Annual Salary Review
+147,52,4,63,37548,2021-08-11,Initial Hire
+148,52,4,63,55210,2023-01-21,Promotion
+149,52,4,63,48476,2023-07-21,Department Transfer
+150,52,4,63,48476,2025-12-27,Lateral Move
+151,53,7,,99262,2018-01-14,Initial Hire
+152,53,7,,109345,2021-11-17,Market Adjustment
+153,53,2,,122708,2022-12-19,Annual Salary Review
+154,53,7,,109345,2023-12-04,Market Adjustment
+155,54,6,22,47560,2019-05-16,Initial Hire
+156,54,6,22,74153,2021-12-07,Annual Salary Review
+157,54,4,22,55736,2021-12-13,Market Adjustment
+158,54,6,22,63968,2025-02-15,Promotion
+159,54,6,22,55736,2025-06-11,Department Transfer
+160,55,8,,163131,2021-06-02,Initial Hire
+161,56,3,47,61070,2024-07-14,Initial Hire
+162,56,8,47,77460,2024-08-24,Performance Adjustment
+163,56,3,47,77229,2025-09-18,Performance Adjustment
+164,56,6,47,81144,2025-12-14,Annual Salary Review
+165,57,3,22,59196,2018-04-28,Initial Hire
+166,57,3,22,65314,2019-04-30,Lateral Move
+167,57,10,22,71234,2021-02-23,Annual Salary Review
+168,57,3,22,75399,2024-11-21,Annual Salary Review
+169,58,5,65,43706,2017-11-23,Initial Hire
+170,58,5,65,74736,2020-01-28,Promotion
+171,58,5,65,75269,2020-09-29,Annual Salary Review
+172,58,5,65,69417,2024-03-09,Promotion
+173,59,1,3,24178,2018-03-18,Initial Hire
+174,59,1,3,41002,2019-07-23,Performance Adjustment
+175,59,8,3,36759,2023-03-11,Market Adjustment
+176,59,1,3,39075,2023-12-07,Performance Adjustment
+177,60,10,84,24749,2019-08-05,Initial Hire
+178,60,10,84,38794,2020-09-26,Performance Adjustment
+179,60,10,84,37541,2021-04-22,Lateral Move
+180,60,2,84,50807,2021-07-26,Annual Salary Review
+181,60,10,84,37541,2023-09-06,Market Adjustment
+182,61,3,77,36791,2024-10-26,Initial Hire
+183,61,3,77,48963,2025-10-30,Lateral Move
+184,62,2,47,40871,2018-12-24,Initial Hire
+185,62,2,47,58105,2019-09-11,Annual Salary Review
+186,62,2,47,48471,2020-03-25,Lateral Move
+187,62,2,47,54328,2022-02-16,Annual Salary Review
+188,62,2,47,48471,2024-06-28,Market Adjustment
+189,63,9,,107375,2023-01-26,Initial Hire
+190,64,7,84,33769,2023-04-12,Initial Hire
+191,65,10,,81313,2024-01-25,Initial Hire
+192,65,10,,110275,2025-06-27,Annual Salary Review
+193,65,10,,90968,2025-08-24,Department Transfer
+194,65,10,,95722,2025-11-10,Performance Adjustment
+195,66,5,,87459,2021-02-05,Initial Hire
+196,66,5,,97541,2021-08-09,Market Adjustment
+197,66,5,,97541,2021-12-28,Lateral Move
+198,67,3,29,62671,2025-09-25,Initial Hire
+199,68,9,,107424,2023-04-26,Initial Hire
+200,68,3,,118595,2023-12-13,Market Adjustment
+201,68,9,,118595,2024-01-06,Market Adjustment
+202,68,9,,130532,2024-10-10,Promotion
+203,68,9,,121080,2025-04-03,Performance Adjustment
+204,69,8,65,38892,2022-08-02,Initial Hire
+205,69,8,65,46845,2023-02-08,Department Transfer
+206,69,8,65,46845,2024-01-03,Lateral Move
+207,70,10,50,42119,2022-02-19,Initial Hire
+208,70,10,50,67569,2024-06-14,Promotion
+209,71,5,12,67152,2023-04-27,Initial Hire
+210,72,4,8,30717,2023-08-17,Initial Hire
+211,72,4,8,63701,2024-06-22,Promotion
+212,72,4,8,46886,2024-08-22,Performance Adjustment
+213,72,4,8,44343,2024-12-10,Department Transfer
+214,72,3,8,44343,2025-12-08,Market Adjustment
+215,73,5,47,51784,2021-06-08,Initial Hire
+216,73,5,47,57499,2022-07-04,Lateral Move
+217,73,5,47,57499,2023-01-24,Market Adjustment
+218,73,5,47,57499,2023-10-28,Lateral Move
+219,74,5,99,52735,2018-10-27,Initial Hire
+220,74,5,99,66523,2019-03-03,Performance Adjustment
+221,74,4,99,61568,2024-07-31,Lateral Move
+222,74,5,99,75913,2025-01-06,Annual Salary Review
+223,75,8,,107900,2021-02-20,Initial Hire
+224,75,9,,134105,2021-04-09,Annual Salary Review
+225,75,4,,120464,2023-07-05,Lateral Move
+226,75,8,,122488,2025-10-25,Performance Adjustment
+227,76,10,36,38994,2019-07-28,Initial Hire
+228,77,10,,83998,2025-03-31,Initial Hire
+229,77,9,,117028,2025-04-29,Promotion
+230,77,10,,115585,2025-05-29,Promotion
+231,78,10,53,49354,2025-05-24,Initial Hire
+232,78,3,53,58823,2025-07-31,Lateral Move
+233,79,4,,88414,2022-09-30,Initial Hire
+234,79,6,,94916,2023-01-23,Department Transfer
+235,79,4,,106411,2024-09-02,Promotion
+236,79,4,,97497,2025-02-01,Performance Adjustment
+237,80,4,29,37778,2025-10-21,Initial Hire
+238,81,4,,94499,2024-05-19,Initial Hire
+239,81,6,,117925,2025-10-11,Annual Salary Review
+240,82,5,63,35346,2018-09-23,Initial Hire
+241,82,5,63,61194,2020-07-31,Promotion
+242,83,8,99,69006,2024-02-22,Initial Hire
+243,83,8,99,76279,2024-03-08,Market Adjustment
+244,83,8,99,77603,2024-06-16,Performance Adjustment
+245,83,8,99,94959,2025-12-08,Promotion
+246,84,10,,106454,2021-10-03,Initial Hire
+247,84,10,,120445,2024-02-21,Market Adjustment
+248,85,8,45,69931,2017-09-27,Initial Hire
+249,85,8,45,83748,2019-04-03,Annual Salary Review
+250,85,8,45,92220,2023-04-28,Promotion
+251,85,8,45,78206,2024-09-03,Performance Adjustment
+252,86,7,66,45104,2020-06-02,Initial Hire
+253,86,7,66,62990,2021-09-07,Performance Adjustment
+254,86,7,66,61468,2023-08-18,Performance Adjustment
+255,86,7,66,74953,2025-11-04,Annual Salary Review
+256,87,7,22,36050,2016-07-12,Initial Hire
+257,87,7,22,48712,2021-12-18,Performance Adjustment
+258,87,7,22,44991,2025-09-14,Market Adjustment
+259,88,9,47,39503,2021-07-26,Initial Hire
+260,88,9,47,49832,2023-06-13,Performance Adjustment
+261,88,9,47,48210,2023-10-31,Performance Adjustment
+262,89,5,81,44476,2019-01-06,Initial Hire
+263,89,5,81,50189,2023-12-16,Market Adjustment
+264,89,5,81,55455,2024-08-07,Annual Salary Review
+265,89,6,81,59139,2025-10-11,Annual Salary Review
+266,90,3,29,48365,2025-12-08,Initial Hire
+267,91,8,13,57699,2023-09-21,Initial Hire
+268,91,8,13,75430,2024-03-12,Promotion
+269,91,8,13,64884,2025-02-13,Market Adjustment
+270,92,7,40,40339,2023-02-03,Initial Hire
+271,92,7,40,53179,2023-02-07,Market Adjustment
+272,92,7,40,53179,2023-08-30,Department Transfer
+273,92,7,40,53179,2024-09-10,Lateral Move
+274,93,6,81,58368,2020-12-13,Initial Hire
+275,93,6,81,64085,2024-01-04,Department Transfer
+276,94,8,48,33773,2020-04-25,Initial Hire
+277,94,9,48,47217,2020-05-19,Lateral Move
+278,94,8,48,47217,2023-11-26,Lateral Move
+279,95,4,9,60763,2021-08-06,Initial Hire
+280,95,1,9,89635,2025-10-17,Annual Salary Review
+281,96,7,,102766,2024-10-08,Initial Hire
+282,96,7,,131815,2025-03-19,Promotion
+283,96,7,,112242,2025-11-20,Lateral Move
+284,97,2,21,50612,2021-01-07,Initial Hire
+285,97,2,21,58672,2022-01-05,Lateral Move
+286,97,9,21,68041,2025-03-17,Annual Salary Review
+287,98,10,40,33649,2025-04-01,Initial Hire
+288,99,9,,152016,2021-10-21,Initial Hire
+289,100,8,53,38106,2021-06-13,Initial Hire
+290,100,8,53,47482,2021-11-03,Performance Adjustment
+291,100,8,53,55905,2023-04-22,Promotion
+292,100,8,53,62820,2024-06-07,Annual Salary Review
+293,100,8,53,46062,2025-08-09,Lateral Move
